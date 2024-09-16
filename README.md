@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I want to grow a career based on continually improving my skills, I want to be a dependable teammate, and I want to make life easier for customers.
+I want to grow a career based on continually improving my skills, I want to be a dependable teammate, and I want to make life easier for users.
