@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome to my Github 
 
 <!--
 **paulywrath/paulywrath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I want to grow a career based on continually improving my skills, I want to be a dependable teammate, and I want to make life easier for customers.
